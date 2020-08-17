@@ -1,6 +1,9 @@
 package clinic.programming.training;
 
 public class Application {
+	public void helloworld(){
+		System.out.println("Hi i am Surekha");
+	}
     
     public Application() {
         System.out.println ("Inside Application");
